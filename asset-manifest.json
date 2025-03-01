@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/baba-yhuki/static/css/main.c75dfb13.css",
-    "main.js": "/baba-yhuki/static/js/main.f7361ae0.js",
-    "index.html": "/baba-yhuki/index.html",
-    "main.c75dfb13.css.map": "/baba-yhuki/static/css/main.c75dfb13.css.map",
-    "main.f7361ae0.js.map": "/baba-yhuki/static/js/main.f7361ae0.js.map"
+    "main.css": "/baba-yhuki/react-corona-tracker-app/static/css/main.c75dfb13.css",
+    "main.js": "/baba-yhuki/react-corona-tracker-app/static/js/main.f7361ae0.js",
+    "index.html": "/baba-yhuki/react-corona-tracker-app/index.html",
+    "main.c75dfb13.css.map": "/baba-yhuki/react-corona-tracker-app/static/css/main.c75dfb13.css.map",
+    "main.f7361ae0.js.map": "/baba-yhuki/react-corona-tracker-app/static/js/main.f7361ae0.js.map"
   },
   "entrypoints": [
     "static/css/main.c75dfb13.css",
